@@ -1,3 +1,1 @@
-# DICOM-Manager
-
-TEST
+# PROCESSING DICOM DATA 
